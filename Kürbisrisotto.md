@@ -2,17 +2,17 @@
 
 ## Zutaten (3 Portionen)
 
-- **350 g Hokkaido-Kürbis**
-- **250 g Risotto-Reis**
-- **1 Schalotte**
-- **1 Knoblauchzehe**
-- **500 ml Gemüsebrühe**
-- **100 ml Weißwein**
-- **1 Becher Schmand**
-- **70 g Parmesan** (gerieben)
-- **Etwas natives Olivenöl extra**
-- **Etwas schwarzer Kampot-Pfeffer**
-- **Etwas Salz**
+- 350 g Hokkaido-Kürbis
+- 250 g Risotto-Reis
+- 1 Schalotte
+- 1 Knoblauchzehe
+- 500 ml Gemüsebrühe
+- 100 ml Weißwein
+- 1 Becher Schmand
+- 70 g Parmesan (gerieben)
+- Natives Olivenöl extra
+- Schwarzer Kampot-Pfeffer
+- Salz
 
 ---
 
