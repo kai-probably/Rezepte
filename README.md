@@ -3,6 +3,7 @@
 Dieses Repository ist eine **kuratierte Rezeptsammlung**, gedacht als **lebendes Kochbuch**.
 Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über GitBook gerendert.
 
+👉 **Lesen als Kochbuch:** [https://kaihacker.gitbook.io/rezepte/](https://kaihacker.gitbook.io/rezepte/)
 
 ## Wie das Repository funktioniert
 
