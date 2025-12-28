@@ -5,6 +5,8 @@ Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über Gi
 
 👉 **Lesen als Kochbuch:** [https://kaihacker.gitbook.io/rezepte/](https://kaihacker.gitbook.io/rezepte/)
 
+📁 **Repository** [https://github.com/kai-probably/Rezepte]
+
 ## Wie das Repository funktioniert
 
 - Jedes Rezept ist eine einzelne `.md`-Datei
