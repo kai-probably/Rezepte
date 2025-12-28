@@ -1,0 +1,34 @@
+name: Generate SUMMARY.md
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "vegan/**.md"
+      - "vegetarisch/**.md"
+      - "fleischgerichte/**.md"
+      - "omas-rezepte/**.md"
+      - "grundlagen/**.md"
+      - "scripts/generate_summary.py"
+      - ".github/workflows/generate-summary.yml"
+
+jobs:
+  build-summary:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SUMMARY.md
+        run: |
+          python3 scripts/generate_summary.py
+
+      - name: Commit changes (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-generate SUMMARY.md"
+          file_pattern: "SUMMARY.md"
