@@ -1,5 +1,7 @@
 # Cocktail Capsule Bar
 _So viele Drinks wie möglich, so wenig Flaschen wie nötig._
+oder 
+_Wie Lego für Erwachsene – nur dass man am Ende einen sitzen hat._
 
 ## Aperitivo & Bitter
 - **Negroni:** Gin, Campari, Roter Wermut
