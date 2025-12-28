@@ -5,4 +5,4 @@
 [Tan Tan Don (Kai)](tan-tan-don-kai.md)
 
 ## Suppen
-- [Zucchini-Gemüsesuppe](zucchini-suppe.md)
+[Zucchini-Gemüsesuppe](zucchini-suppe.md)
