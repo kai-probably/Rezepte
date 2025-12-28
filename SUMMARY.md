@@ -4,7 +4,7 @@
 
 ## Meatlove
 
-* [Tan Tan Don](<README (1).md>)
+* [Tan Tan Don](meatlove/readme.md)
 * [Meatballs + Tomatensauce](meatlove/meatballs-+-tomatensauce.md)
 * [Marinade für Hendlbrust](meatlove/marinade-fur-hendlbrust.md)
 * [Pikant - säuerliche Suppe](meatlove/pikant-sauerliche-suppe.md)
