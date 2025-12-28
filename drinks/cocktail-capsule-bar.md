@@ -35,3 +35,5 @@ _Wie Lego für Erwachsene – nur dass man am Ende einen sitzen hat._
 - **Zuckersirup:** Simple Syrup (1:1)
 - **Tonic Water:** Gekauft (Flaschen/Dosen)
 - **Sodawasser:** SodaStream
+
+![](.gitbook/assets/negroni.jpeg)
