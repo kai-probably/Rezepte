@@ -1,9 +1,27 @@
 # Rezepte
+
+## Fleischgerichte
+- [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
+- [Meatballs + Tomatensauce](fleischgerichte/meatballs-+-tomatensauce.md)
+- [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
+- [Poke Bowl mit knusprigem Huhn](fleischgerichte/poke-bowl-mit-knusprigem-huhn.md)
+- [Tan Tan Don Kai](fleischgerichte/tan-tan-don-kai.md)
+- [Tims Improvisierte Asia Pfanne](fleischgerichte/tims-improvisierte-asia-pfanne.md)
+
+## Grundlagen
+- [Guacamole](grundlagen/guacamole.md)
+- [Rahm oder Sauermilch?](grundlagen/rahm-oder-sauermilch.md)
+
+## Omas Rezepte
+- [Apfelstrudel](omas-rezepte/apfelstrudel.md)
+- [Germknödel mit Vanillesoße](omas-rezepte/germknodel-mit-vanillesosse.md)
+- [Griesnockerl](omas-rezepte/griesnockerl.md)
+
 ## Vegan
 - [Aquafaba Mousse au Chocolat](vegan/aquafaba-mousse-au-chocolat.md)
 - [Couscous-Gemüse-Paella](vegan/couscous-gemuse-paella.md)
 - [Stir Fry](vegan/stir-fry.md)
-- [zucchini suppe](vegan/zucchini-suppe.md)
+- [Zucchini Suppe](vegan/zucchini-suppe.md)
 
 ## Vegetarisch
 - [Avocado Pasta Salad](vegetarisch/avocado-pasta-salad.md)
@@ -19,20 +37,3 @@
 - [Karfiol-Wings mit Schnittlauch-Dip](vegetarisch/karfiol-wings-mit-schnittlauch-dip.md)
 - [Kürbisrisotto mit Hokkaido-Kürbis](vegetarisch/kuerbisrisotto.md)
 - [Pad Thai](vegetarisch/pad-thai.md)
-
-## Fleischgerichte
-- [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
-- [Meatballs + Tomatensauce](fleischgerichte/meatballs-+-tomatensauce.md)
-- [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
-- [Poke Bowl mit knusprigem Huhn](fleischgerichte/poke-bowl-mit-knusprigem-huhn.md)
-- [Tan Tan Don Kai](fleischgerichte/tan-tan-don-kai.md)
-- [Tims Improvisierte Asia Pfanne](fleischgerichte/tims-improvisierte-asia-pfanne.md)
-
-## Omas Rezepte
-- [Apfelstrudel](omas-rezepte/apfelstrudel.md)
-- [Germknödel mit Vanillesoße](omas-rezepte/germknodel-mit-vanillesosse.md)
-- [Griesnockerl](omas-rezepte/griesnockerl.md)
-
-## Grundlagen
-- [Guacamole](grundlagen/guacamole.md)
-- [Rahm oder Sauermilch?](grundlagen/rahm-oder-sauermilch.md)
