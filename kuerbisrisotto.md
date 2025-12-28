@@ -1,3 +1,5 @@
+[↑ Alle Rezepte](../README.md)
+
 # Kürbisrisotto mit Hokkaido-Kürbis
 
 ## Zutaten (3 Portionen)

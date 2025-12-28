@@ -1,3 +1,5 @@
+[↑ Alle Rezepte](../README.md)
+
 # Tan Tan Don Kai
 
 ## Zutaten (3–4 Portionen)
