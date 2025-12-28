@@ -1,4 +1,4 @@
-[↑ Alle Rezepte](../README.md)
+[↑ Alle Rezepte](README.md)
 
 ## Zucchini-Gemüsesuppe (1 Portion, leicht)
 
