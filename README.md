@@ -14,10 +14,6 @@
 
 - Ein Rezept = eine `.md`-Datei  
 
----
-
-## Rezeptkonventionen
-
 Die Rezepte sind bewusst kurz und reduziert gehalten.  
 Zutaten werden bei der **ersten Erwähnung** mit Menge genannt, die Zubereitung folgt in kurzen, nummerierten Schritten und bleibt durchgehend gleich aufgebaut.
 
