@@ -10,13 +10,15 @@
 
 ---
 
+## Rezeptkonventionen
+
+- Ein Rezept = eine `.md`-Datei  
+
 ---
 
 ## Rezeptkonventionen
 
-- Ein Rezept = eine `.md`-Datei  
-- Zutaten mit Menge bei erster Erwähnung  
-- Schrittweise, reduzierte Zubereitung  
-- Keine Einleitungen oder Storys  
+Die Rezepte sind bewusst kurz und reduziert gehalten.  
+Zutaten werden bei der **ersten Erwähnung** mit Menge genannt, die Zubereitung folgt in kurzen, nummerierten Schritten und bleibt durchgehend gleich aufgebaut.
 
-Dieses README ist eine Übersicht und ggf. auto-generiert.
+Dieses README dient als Übersicht aller Rezepte.
