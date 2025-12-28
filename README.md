@@ -1,25 +1,33 @@
----
-description: (Page description will go here)
----
-
-
 # Rezepte
 
-## Hauptgerichte (Beispiel)
-[Kürbisrisotto](kuerbisrisotto.md)<br>
-[Tan Tan Don (Kai)](tan-tan-don-kai.md)<br>
-[Goldener Weisskohl](goldener-weisskohl.md)
-
-## Suppen (Beispiel)
-[Zucchini-Gemüsesuppe](zucchini-suppe.md)
+Dieses Repository ist eine **kuratierte Rezeptsammlung**, gedacht als **lebendes Kochbuch**.
+Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über GitBook gerendert.
 
 ---
 
-## Rezeptkonventionen
+## Wie das Repository funktioniert
 
-- Ein Rezept = eine `.md`-Datei  
+- Jedes Rezept ist eine einzelne `.md`-Datei
+- Ordner definieren Kategorien
+- Neue Rezepte erscheinen automatisch
+- Die Seitenleiste wird automatisch erzeugt
 
-Die Rezepte sind bewusst kurz und reduziert gehalten.  
-Zutaten werden bei der **ersten Erwähnung** mit Menge genannt, die Zubereitung folgt in kurzen, nummerierten Schritten und bleibt durchgehend gleich aufgebaut.
+---
 
-Dieses README dient als Übersicht aller Rezepte und Konventionen.
+## Navigation & Automatisierung
+
+### GitBook
+- Jeder Ordner im Repo wird zu einer **Kategorie (Group)**
+- Die Seitenleiste auf Gitbook wird **automatisch via Script** generiert
+- Jede Rezeptdatei wird automatisch darunter gelistet
+
+👉 Die Datei `SUMMARY.md` wird **nicht manuell gepflegt** sondern bei jedem Commit **automatisch neu erzeugt**.
+
+---
+
+## TL;DR
+
+- 📄 Markdown schreiben
+- 📁 Ordner anlegen
+- ⚙️ Automation erledigt die Navigation
+- 📚 GitBook rendert das Ergebnis
