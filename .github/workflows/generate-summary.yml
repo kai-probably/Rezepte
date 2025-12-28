@@ -2,30 +2,36 @@ name: Generate SUMMARY.md
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
     paths:
-      - "vegan/**.md"
-      - "vegetarisch/**.md"
-      - "fleischgerichte/**.md"
-      - "omas-rezepte/**.md"
-      - "grundlagen/**.md"
+      - "**/*.md"
       - "scripts/generate_summary.py"
       - ".github/workflows/generate-summary.yml"
+
+concurrency:
+  group: generate-summary-main
+  cancel-in-progress: true
 
 jobs:
   build-summary:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate SUMMARY.md
         run: |
           python3 scripts/generate_summary.py
+
+      - name: Sync with origin/main
+        run: |
+          git fetch origin main
+          git rebase origin/main
 
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
