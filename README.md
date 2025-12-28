@@ -3,7 +3,6 @@
 Dieses Repository ist eine **kuratierte Rezeptsammlung**, gedacht als **lebendes Kochbuch**.
 Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über GitBook gerendert.
 
----
 
 ## Wie das Repository funktioniert
 
@@ -12,18 +11,15 @@ Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über Gi
 - Neue Rezepte erscheinen automatisch
 - Die Seitenleiste wird automatisch erzeugt
 
----
 
-## Navigation & Automatisierung
+## Wie GitBook daraus ein Kochbuch macht
 
-### GitBook
 - Jeder Ordner im Repo wird zu einer **Kategorie (Group)**
 - Die Seitenleiste auf Gitbook wird **automatisch via Script** generiert
 - Jede Rezeptdatei wird automatisch darunter gelistet
 
 👉 Die Datei `SUMMARY.md` wird **nicht manuell gepflegt** sondern bei jedem Commit **automatisch neu erzeugt**.
 
----
 
 ## TL;DR
 
