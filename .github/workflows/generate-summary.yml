@@ -3,21 +3,26 @@ name: Generate SUMMARY.md
 on:
   push:
     branches: ["main"]
+    # Trigger on any markdown file inside folders (recipes/categories), plus script/workflow changes
     paths:
-      - "**/*.md"
+      - "*/**.md"
       - "scripts/generate_summary.py"
       - ".github/workflows/generate-summary.yml"
+    # Prevent self-triggering when the bot commits SUMMARY.md
     paths-ignore:
       - "SUMMARY.md"
-      
+
+# Ensure only one run at a time; newer pushes cancel older runs
 concurrency:
   group: generate-summary-main
   cancel-in-progress: true
 
 jobs:
   build-summary:
+    # Extra guard: don't run on bot commits even if paths match
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -26,14 +31,16 @@ jobs:
         with:
           fetch-depth: 0
 
+      # Keep the runner aligned with the latest remote main to avoid non-fast-forward pushes
+      - name: Sync to latest origin/main
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
       - name: Generate SUMMARY.md
         run: |
           python3 scripts/generate_summary.py
-
-      - name: Sync with origin/main
-        run: |
-          git fetch origin main
-          git rebase origin/main
 
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
