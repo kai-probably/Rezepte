@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Alle Rezepte](README.md)
+
 ## Meatlove
 
-* [Tan Tan Don](README.md)
+* [Tan Tan Don](<README (1).md>)
 * [Meatballs + Tomatensauce](meatlove/meatballs-+-tomatensauce.md)
 * [Marinade für Hendlbrust](meatlove/marinade-fur-hendlbrust.md)
 * [Pikant - säuerliche Suppe](meatlove/pikant-sauerliche-suppe.md)
