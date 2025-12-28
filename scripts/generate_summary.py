@@ -5,55 +5,57 @@ import re
 ROOT = Path(".")
 SUMMARY = ROOT / "SUMMARY.md"
 
-# Ordner -> Gruppenname (du kannst das Mapping jederzeit ändern)
-GROUPS = [
-    ("vegan", "Vegan"),
-    ("vegetarisch", "Vegetarisch"),
-    ("fleischgerichte", "Fleischgerichte"),
-    ("omas-rezepte", "Omas Rezepte"),
-    ("grundlagen", "Grundlagen"),
-]
+EXCLUDE_DIRS = {
+    ".git",
+    ".github",
+    ".gitbook",
+    "__MACOSX",
+}
 
 H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
+
+def is_valid_dir(p: Path) -> bool:
+    return (
+        p.is_dir()
+        and not p.name.startswith(".")
+        and p.name not in EXCLUDE_DIRS
+    )
+
+def is_valid_md(p: Path) -> bool:
+    return (
+        p.is_file()
+        and p.suffix == ".md"
+        and p.name.lower() not in ("readme.md", "summary.md")
+        and not p.name.startswith("._")
+    )
 
 def title_from_md(path: Path) -> str:
     try:
         text = path.read_text(encoding="utf-8")
     except Exception:
-        return path.stem.replace("-", " ")
+        return path.stem.replace("-", " ").title()
+
     m = H1_RE.search(text)
     if m:
         return m.group(1).strip()
-    return path.stem.replace("-", " ")
 
-def md_files_in(folder: Path):
-    # Nur echte Rezeptseiten: *.md, aber kein README.md, keine SUMMARY.md
-    files = []
-    for p in sorted(folder.glob("*.md")):
-        if p.name.lower() in ("readme.md", "summary.md"):
-            continue
-        files.append(p)
-    return files
+    return path.stem.replace("-", " ").title()
 
-lines = []
-lines.append("# Rezepte\n")
+lines = ["# Rezepte\n\n"]
 
-for folder_name, group_title in GROUPS:
-    folder = ROOT / folder_name
-    if not folder.exists() or not folder.is_dir():
-        continue
-
-    files = md_files_in(folder)
+for folder in sorted([d for d in ROOT.iterdir() if is_valid_dir(d)]):
+    files = sorted([f for f in folder.iterdir() if is_valid_md(f)])
     if not files:
         continue
 
+    group_title = folder.name.replace("-", " ").title()
     lines.append(f"## {group_title}\n")
+
     for f in files:
         title = title_from_md(f)
-        rel = f.as_posix()
-        lines.append(f"- [{title}]({rel})\n")
+        lines.append(f"- [{title}]({f.as_posix()})\n")
+
     lines.append("\n")
 
-content = "".join(lines).rstrip() + "\n"
-SUMMARY.write_text(content, encoding="utf-8")
-print(f"Wrote {SUMMARY}")
+SUMMARY.write_text("".join(lines).rstrip() + "\n", encoding="utf-8")
+print("SUMMARY.md generated")
