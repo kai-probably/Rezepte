@@ -38,5 +38,4 @@ _Wie Lego für Erwachsene – nur dass man am Ende einen sitzen hat._
 
 .gitbook/assets/negroni.jpeg
 
-![img](.gitbook/assets/negroni.jpeg
-)
+![negroni.jpeg](img/negroni.jpeg)
