@@ -1,4 +1,4 @@
-[↑ Alle Rezepte](../README.md)
+[↑ Alle Rezepte](README.md)
 
 # Kürbisrisotto mit Hokkaido-Kürbis
 
