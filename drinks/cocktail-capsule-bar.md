@@ -37,4 +37,4 @@ _Wie Lego für Erwachsene – nur dass man am Ende einen sitzen hat._
 - **Sodawasser:** SodaStream
 
 
-![negroni.jpeg](img/negroni.jpeg)
+![negroni.jpeg](../img/negroni.jpeg)
