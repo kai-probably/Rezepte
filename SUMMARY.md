@@ -4,6 +4,7 @@
 - [Cocktail Capsule Bar](drinks/cocktail-capsule-bar.md)
 
 ## Fleischgerichte
+- [Chicken Cashew Broccoli](fleischgerichte/Chicken Cashew Broccoli.md)
 - [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
 - [Meatballs + Tomatensauce](fleischgerichte/meatballs-+-tomatensauce.md)
 - [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
