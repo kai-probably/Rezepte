@@ -8,4 +8,3 @@ Zubereitung:
 	4	Wasser weg? 1 TL Öl + Aromatics (Cashews, Weiß der Zwiebel, Knoblauch, Ingwer, Chilis) anbraten.
 	5	Fleisch & Sauce (Austernsauce, Soja, Wasser, Stärke) rein, kurz schwenken (bindet sofort).
 	6	Grün der Zwiebel drüber.
-	![[595366CA-37B2-44CC-BD2B-5186E626DBFFDSCF0043.jpeg]]
