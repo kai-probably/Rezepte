@@ -1,5 +1,8 @@
 # Rezepte
 
+## Drinks
+- [Cocktail Capsule Bar](drinks/cocktail-capsule-bar.md)
+
 ## Fleischgerichte
 - [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
 - [Meatballs + Tomatensauce](fleischgerichte/meatballs-+-tomatensauce.md)
