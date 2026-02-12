@@ -1,4 +1,4 @@
-Chicken Cashew Broccoli (850 kcal | 70g Protein)
+# Chicken Cashew Broccoli (850 kcal | 70g Protein)
 
 Zutaten: 250g Hähnchen Oberkeule (ausgelöst) 60g Reis (roh) 250g Brokkoli 20g Cashews Aromatics (Frühlingszwiebel, Knoblauch, Ingwer, Chilis) 2 TL Öl Sauce (1 EL Austernsauce, 2-3 EL Soja, 3 EL Wasser, Mssp. Stärke)
 Zubereitung:
