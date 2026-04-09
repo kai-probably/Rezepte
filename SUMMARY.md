@@ -29,6 +29,7 @@
 - [Zucchini Suppe](vegan/zucchini-suppe.md)
 
 ## Vegetarisch
+- [Kichererbsen-Gulasch](vegetarisch/Kichererbsengulasch.md)
 - [Avocado Pasta Salad](vegetarisch/avocado-pasta-salad.md)
 - [Ayran](vegetarisch/ayran.md)
 - [Broccoli & Pak Choi Soba](vegetarisch/broccoli-and-pak-choi-soba.md)
