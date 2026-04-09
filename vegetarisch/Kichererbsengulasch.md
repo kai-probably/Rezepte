@@ -21,9 +21,9 @@ Für ca. 2 Portionen
 
 ## Zubereitung
 
-1. **Zwiebeln**, **Karotten** und **Zucchini** würfeln und in **Öl** andünsten.
-2. **Tomatenmark** und **Paprikapulver** zugeben, kurz mitrösten, dann mit **Gemüsebrühe** ablöschen.
-3. **Lorbeerblätter** und **Kichererbsen** hinzufügen.
+1. **100 g Zwiebeln**, **200 g Karotten**, und **200 g Zucchini** würfeln, dann in **Öl** andünsten.
+2. **4 EL Tomatenmark** und **1 TL Paprikapulver** zugeben, kurz mitrösten, dann mit **200 ml Gemüsebrühe** ablöschen.
+3. **Lorbeerblätter** und **300 g Kichererbsen** hinzufügen.
 4. Bei mittlerer Hitze köcheln lassen.
 5. Mit **Majoran**, **Salz** und **Pfeffer** abschmecken, **Petersilie** unterrühren.
 6. **Lorbeerblätter** entfernen und mit **Brot** servieren.
