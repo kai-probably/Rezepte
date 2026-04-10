@@ -2,29 +2,19 @@
 
 Zutaten
 
-2 1/2 Liter Wasser
+- 2 1/2 Liter Wasser
+- 3 Hühnerschenkel
+- 3 Eier
+- 2 Scheibe/n Ingwer
+- 2 m.-große Karotte(n)
+- 1 Tasse Bambussprosse(n)
+- 1 EL Morcheln, getrocknete
 
-3 Hühnerschenkel
-
-2 Scheibe/n Ingwer
-
-2 m.-große Karotte(n)
-
-1 EL Morcheln, getrocknete
-
-1 Tasse Bambussprosse(n)
-
-150 ml Sojasauce
-
-2 EL Zucker
-
-1 TL Salz
-
-60 ml Essig, z. B. Weinessig, kein Apfelessig
-
-4 EL Stärkemehl
-
-3 m.-große Ei(er)
+- 150 ml Sojasauce
+- 2 EL Zucker
+- 1 TL Salz
+- 60 ml Essig, z.B. Weinessig, kein Apfelessig
+- 4 EL Stärkemehl
 
 Arbeitszeit: ca. 20 Min. / Schwierigkeitsgrad: simpel / Kalorien p. P.: keine Angabe
 
