@@ -33,6 +33,7 @@
 - [Avocado Pasta Salad](vegetarisch/avocado-pasta-salad.md)
 - [Ayran](vegetarisch/ayran.md)
 - [Broccoli & Pak Choi Soba](vegetarisch/broccoli-and-pak-choi-soba.md)
+- [Low-Carb Cheesecake](vegetarisch/cheesecake.md)
 - [Curry mit Reis und Gemüse Wok](vegetarisch/curry-mit-reis-und-gemuse-wok.md)
 - [Gebratener Fenchel](vegetarisch/gebratener-fenchel.md)
 - [Gerds Pizzateig](vegetarisch/gerds-pizzateig.md)
