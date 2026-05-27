@@ -3,11 +3,11 @@
 ## Zutaten
 
 ### Für 1 Portion
-- **3 Eier (mittelgroß)**
-- **1 EL Butter**
-- **80–120 g Käse (z. B. Gruyère, Emmentaler oder eine Mischung)**
-- **Salz**
-- **Pfeffer**
+- 3 Eier (mittelgroß)
+- 1 EL Butter
+- 80–120 g Käse (z. B. Gruyère, Emmentaler oder eine Mischung)
+- Salz
+- Pfeffer
 
 Optional:
 - Schnittlauch oder Kräuter
@@ -34,7 +34,7 @@ Pfanne auf **mittlere bis mittelhohe Hitze** bringen.
 ---
 ### 3. Ei setzen
 
-Eier in die heiße Butterpfanne geben.
+**Eier** in die heiße Butterpfanne geben.
 
 Mit einem Spatel beginnen, die Masse vom Rand zur Mitte zu schieben, sodass sich weiche Ei-Flocken bilden.
 
