@@ -15,6 +15,7 @@
 
 ## Grundlagen
 - [Guacamole](grundlagen/guacamole.md)
+- [Omelette du Fromage](grundlagen/omelette-du-fromage.md)
 - [Rahm oder Sauermilch?](grundlagen/rahm-oder-sauermilch.md)
 
 ## Omas Rezepte
