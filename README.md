@@ -5,14 +5,14 @@ Rezepte liegen als Markdown-Dateien vor, werden mit Git versioniert und über Gi
 
 👉 **Lesen als Kochbuch:** [kaihacker.gitbook.io/rezepte/](https://kaihacker.gitbook.io/rezepte/fleischgerichte/tan-tan-don-kai)
 
-📁 **Repository:** [github.com/kai-probably/Rezepte](https://github.com/kai-probably/Rezepte)
-
 ## Wie das Repository funktioniert
 
 - Jedes Rezept ist eine einzelne `.md`-Datei
 - Ordner definieren Kategorien
 - Neue Rezepte erscheinen automatisch
 - Die Seitenleiste wird automatisch erzeugt
+- Repository-Link: [github.com/kai-probably/Rezepte](https://github.com/kai-probably/Rezepte)
+
 
 
 ## Wie GitBook daraus ein Kochbuch macht
