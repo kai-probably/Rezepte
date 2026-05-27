@@ -18,7 +18,7 @@ Optional:
 ## Zubereitung
 
 ### 1. Vorbereitung
-Eier in eine Schüssel aufschlagen und kräftig verquirlen, bis Eiweiß und Eigelb vollständig verbunden sind und eine homogene Mischung entsteht. Optional leicht salzen.
+Eier in eine Schüssel aufschlagen und kräftig verquirlen, bis Eiweiß und Eigelb vollständig verbunden sind und eine homogene Mischung entsteht. Leicht salzen.
 
 Käse grob reiben oder in feine Stücke schneiden.
 
