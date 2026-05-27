@@ -50,14 +50,9 @@ Ca. 60 Minuten bei 160 °C backen.
 
 Ofen ausschalten und den Cheesecake 2–3 Stunden im geschlossenen Ofen langsam auskühlen lassen.
 
-Danach vollständig im Kühlschrank durchkühlen lassen.
-
 ---
+### 4. Kühlen & Servieren
+Cheesecake nach dem Backen 2–3 Stunden im ausgeschalteten, geschlossenen Ofen langsam auskühlen lassen. Danach vollständig im Kühlschrank durchkühlen lassen.
 
-### 4. Servieren
-Mit frischem Obst garnieren und kalt servieren.
+Vor dem Servieren mit frischem Obst garnieren und kalt servieren.
 
----
-
-## Gesamtzeit
-ca. 2 Stunden + Kühlzeit
