@@ -5,18 +5,18 @@
 ### Für 4 Portionen
 
 #### Boden
-- **120 g Butter (kalt)**
-- **200 g Mandeln**
-- **1 EL Zimt**
-- **1 Ei**
+- 120 g Butter (kalt)
+- 200 g Mandeln
+- 1 EL Zimt
+- 1 Ei
 
 #### Creme
-- **400 g Frischkäse**
-- **200 g Crème fraîche**
-- **150 g Birkenzucker (fein)**
-- **1 EL Zitronensaft**
-- **1 Vanilleschote (Mark)**
-- **5 mittelgroße Eier**
+- 400 g Frischkäse
+- 200 g Crème fraîche
+- 150 g Birkenzucker (fein)
+- 1 EL Zitronensaft
+- 1 Vanilleschote (Mark)
+- 5 mittelgroße Eier
 
 #### Topping
 - Frisches Obst nach Wahl
