@@ -36,6 +36,7 @@
 - [Broccoli & Pak Choi Soba](vegetarisch/broccoli-and-pak-choi-soba.md)
 - [Low-Carb Cheesecake](vegetarisch/cheesecake.md)
 - [Curry mit Reis und Gemüse Wok](vegetarisch/curry-mit-reis-und-gemuse-wok.md)
+- [Frühstücks-Quesadilla mit Ei, Bohnen & Cheddar](vegetarisch/fruehstueks-quesadillas.md)
 - [Gebratener Fenchel](vegetarisch/gebratener-fenchel.md)
 - [Gerds Pizzateig](vegetarisch/gerds-pizzateig.md)
 - [Gnocchi with burnt butter and walnuts](vegetarisch/gnocchi-with-burnt-butter-and-walnuts.md)
