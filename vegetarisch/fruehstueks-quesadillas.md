@@ -21,7 +21,7 @@
 
 ## Zubereitung
 
-1. **2 Eier** mit einigen Spritzern **Chili-Sauce**, **1 Prise Salz** und **60 g** gekochten Bohnen in einer Schüssel gründlich verquirlen. Beiseitestellen.
+1. **2 Eier** mit einigen Spritzern **Chili-Sauce**, **1 Prise Salz** und **60 g gekochten Bohnen** in einer Schüssel gründlich verquirlen. Beiseitestellen.
 
 2. **10 g Butter** in einer mittelgroßen Pfanne bei mittlerer Hitze schmelzen. Die Eiermischung hineingeben und unter häufigem Rühren **1–3 Minuten** stocken lassen, bis das Ei gerade eben fest ist. Sofort in eine Schüssel umfüllen, damit es nicht weitergart. **1 EL** Frühlingszwiebel, **1 EL** Koriander und optional **1 EL** eingelegte Jalapeños unterheben.
 
