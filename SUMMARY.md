@@ -4,7 +4,7 @@
 - [Cocktail Capsule Bar](drinks/cocktail-capsule-bar.md)
 
 ## Fleischgerichte
-- [Chicken Cashew Broccoli (850 kcal | 70g Protein)](fleischgerichte/chicken-cashew-broccoli.md)
+- [Chicken Cashew Broccoli](fleischgerichte/chicken-cashew-broccoli.md)
 - [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
 - [Meatballs + Tomatensauce](fleischgerichte/meatballs-tomatensauce.md)
 - [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
