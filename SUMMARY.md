@@ -19,7 +19,7 @@
 - [Rahm oder Sauermilch?](grundlagen/rahm-oder-sauermilch.md)
 
 ## Omas Rezepte
-- [Apfelstrudel](omas-rezepte/apfelstrudel.md)
+- [Omas Apfelstrudel](omas-rezepte/apfelstrudel.md)
 - [Germknödel mit Vanillesoße](omas-rezepte/germknodel-mit-vanillesosse.md)
 - [Griesnockerl](omas-rezepte/griesnockerl.md)
 
