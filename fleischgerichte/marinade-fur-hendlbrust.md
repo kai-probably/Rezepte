@@ -1,15 +1,9 @@
----
-description: '#omaliebtes'
----
-
 # Marinade für Hendlbrust
 
-Soyasauce
+- Soyasauce
+- Zitrone
+- Balsamico
+- Knoblauch
+- Honig
 
-Zitrone
-
-Balsamico
-
-Knoblauch
-
-Honig
+#omaliebtes
