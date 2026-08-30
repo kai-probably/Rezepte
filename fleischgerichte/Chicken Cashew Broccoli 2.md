@@ -1,7 +1,3 @@
----
-description: '#highproteine #chicken'
----
-
 # Chicken Cashew Broccoli (850 kcal | 70g Protein)
 
 ## Zutaten
