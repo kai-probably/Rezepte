@@ -5,7 +5,6 @@
 
 ## Fleischgerichte
 - [Chicken Cashew Broccoli (850 kcal | 70g Protein)](fleischgerichte/Chicken Cashew Broccoli 2.md)
-- [Chicken Cashew Broccoli (850 kcal | 70g Protein)](fleischgerichte/Chicken Cashew Broccoli.md)
 - [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
 - [Meatballs + Tomatensauce](fleischgerichte/meatballs-+-tomatensauce.md)
 - [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
