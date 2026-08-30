@@ -1,35 +1,32 @@
-# Apfelstrudel
+# Omas Apfelstrudel
 
-### für 2 Strudel
-
+## Zutaten für 2 Strudel
+4-5 Äpfel (2 gehäufte Suppenteller)
 25dg Mehl glatt
-
-4dg Butter
-
+4-6dg Butter
 1 Ei
-
+1 Handvoll Semmelbrösel
+Zucker
+Zimt
+### Optional
 Zitronenschale
+a bisl Vanillezucker
 
-"a bisl" Vanillezucker
-
-Milch dazu dass es ein fester Teig wird
-
-Mehl + Butter _abbröseln_
-
+## Teig
+Mehl + Butter abbröseln
 Ei dazu
-
-Milch erst danach und nur ein bisschen, mittlerer Teig
-
+Milch erst danach, und nur ein bisschen
+Teig teilen
 mindestens eine Stunde rasten
 
-dünn ausrollen
-
+## Strudel
 Semmelbrösel mit Öl anrösten
-
-Apfelspalten ein gehäufter Suppenteller (ca 4-5 Äpfel)
-
+Teig dünn ausrollen
+Apfelspalten darüber verteilen
 Zucker und Zimt darüber
 
-200° Heissluft
-
+## Backen
 davor mit flüssiger Butter anstreichen (nicht sparen bei der Butter)
+200° Heissluft
+Unterste Schiene
+1/2 Stunde oder weniger backen
