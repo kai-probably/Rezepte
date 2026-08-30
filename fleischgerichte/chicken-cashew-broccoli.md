@@ -1,5 +1,6 @@
 # Chicken Cashew Broccoli 
-(850 kcal | 70g Protein)
+
+(850 kcal, 70g Protein)
 
 ## Zutaten
 - 250g Hähnchen Oberkeule (ausgelöst) 
