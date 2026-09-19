@@ -1,8 +1,8 @@
-Lasagne mit Ragù und Mozzarella
+# Lasagne mit Ragù und Mozzarella
 
 Zutaten
 
-Ragù
+## Ragù
 
 * 600 g Hackfleisch (Rind oder gemischt)
 * 800 g passierte oder stückige Tomaten
@@ -18,12 +18,12 @@ Ragù
 * Oregano
 * Thymian
 
-Käse
+## Käse
 
 * 300 g Mozzarella
 * 100 g Parmesan oder Grana Padano
 
-Béchamel
+## Béchamel
 
 * 25 g Butter
 * 25 g Mehl
@@ -36,7 +36,7 @@ Außerdem
 
 * ca. 12–15 Lasagneplatten (ohne Vorkochen)
 
-Zubereitung
+## Zubereitung
 
 1. Ragù zubereiten: 1 Zwiebel, 2 Knoblauchzehen, 1 Karotte und 1 Stange Staudensellerie fein würfeln. In etwas Olivenöl bei mittlerer Hitze anbraten. 600 g Hackfleisch dazugeben und kräftig anbraten, bis es krümelig und leicht gebräunt ist.
 2. Tomatenmark einrühren und kurz mitrösten. Optional mit 100 ml Rotwein ablöschen und kurz einkochen lassen. 800 g Tomaten hinzufügen, mit Salz, Pfeffer, Oregano und Thymian würzen und das Ragù mindestens 30–45 Minuten bei niedriger Hitze köcheln lassen.
