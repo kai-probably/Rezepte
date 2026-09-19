@@ -5,6 +5,7 @@
 
 ## Fleischgerichte
 - [Chicken Cashew Broccoli](fleischgerichte/chicken-cashew-broccoli.md)
+- [Lasagna](fleischgerichte/lasagna.md)
 - [Marinade für Hendlbrust](fleischgerichte/marinade-fur-hendlbrust.md)
 - [Meatballs + Tomatensauce](fleischgerichte/meatballs-tomatensauce.md)
 - [Pikant - säuerliche Suppe](fleischgerichte/pikant-sauerliche-suppe.md)
