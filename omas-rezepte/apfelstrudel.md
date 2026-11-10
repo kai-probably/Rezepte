@@ -10,10 +10,10 @@
 - Zimt
 - #### Optional:
 - Zitronenschale
-- a bisl Vanillezucker
+- _a bisl_ Vanillezucker
 
 ## Teig
-1. Mehl + Butter abbröseln
+1. Mehl + Butter _abbröseln_
 2. Ei dazu
 3. Milch erst danach, und nur ein bisschen
 4. Teig teilen
@@ -23,11 +23,11 @@
 6.  Teig dünn ausrollen
 7.  Semmelbrösel mit Öl anrösten
 8.  Brösel über Teig verteilen
-9.  pfelspalten darüber verteilen
-10.  Zucker und Zimt darüber
+9.  Apfelspalten darüber verteilen
+10.  Zucker und Zimt darüberstreuen 
 
 ## Backen
-10. davor mit flüssiger Butter anstreichen (nicht sparen bei der Butter)
+10. davor mit flüssiger Butter anstreichen ("nicht sparen bei der Butter")
 11. 200° Heissluft
 12. Unterste Schiene
 13. 1/2 Stunde oder weniger backen
